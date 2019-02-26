@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="D:/workspace_ch/testlogin"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.723">
+  <properties />
+  
+  
+            <testcase name="sendEmail" time="1.723" classname="testsuite.EmailTest" />
+      
+</testsuite>
